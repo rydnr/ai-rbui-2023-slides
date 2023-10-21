@@ -1,0 +1,63 @@
+// Solarized colors
+$base03:    #002b36;
+$base02:    #073642;
+$base01:    #586e75;
+$base00:    #657b83;
+$base0:     #839496;
+$base1:     #93a1a1;
+$base2:     #eee8d5;
+$base3:     #fdf6e3;
+$yellow:    #b58900;
+$orange:    #f8991d;
+$red:       #dc322f;
+$magenta:   #d33682;
+$violet:    #6c71c4;
+$blue:      #268bd2;
+$cyan:      #2aa198;
+$green:     #859900;
+
+// Override theme settings (see ../template/settings.scss)
+$mainColor: $base1;
+$headingColor: $orange;
+$headingTextShadow: $orange;
+$backgroundColor: $base03;
+$linkColor: $blue;
+$linkColorHover: lighten( $linkColor, 20% );
+$selectionBackgroundColor: $magenta;
+
+.reveal h4 {
+  color: $orange;
+}
+
+.reveal .inverted-title {
+  color: $orange;
+}
+.hide-me {
+  opacity: 1;
+  filter: blur(7px);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+  font-weight: bold;
+}
+
+.reveal strong {
+    font-weight: bold;
+    color: $yellow;
+//    color: #f8991d;
+}
+
+.reveal h5 {
+  color: $base3;
+}
+
+.horizontal-layout-right {
+  display: grid;
+  grid-template-columns: 1fr 50%;
+  align-items: center; /* Vertically aligns the items in the center */
+  gap: 16px; /* Optional: Adds some gap between the columns */
+}
+.horizontal-layout-left {
+  display: grid;
+  grid-template-columns: 50% 1fr;
+  align-items: center; /* Vertically aligns the items in the center */
+  gap: 16px; /* Optional: Adds some gap between the columns */
+}
