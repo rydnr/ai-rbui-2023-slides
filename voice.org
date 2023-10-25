@@ -1,0 +1,76 @@
+#+title: Voice
+#+date: 2023/10/24
+
+Hola a todos, mi nombre es Jose San Leandro.
+Quiero contaros una experiencia personal, en la que el uso de herramientas de Inteligencia Artificial ha jugado un papel muy importante.
+Pero para ello tengo que poneros en contexto sobre cómo es mi profesión.
+[espacio]
+Me dedico a la programación de aplicaciones.
+Supongo que podría decir que es mi vocación, porque me gano la vida trabajando en algo que me gusta.
+Mi trabajo siempre ha tenido el atractivo para mi de ser bastante variado y enriquecedor.
+[espacio]
+Sin embargo, no siempre es agradable. Hay mucha presión por hacer las cosas lo más rápido y lo más barato posible. Los resultados no siempre son satisfactorios, y dependiendo de las circunstancias puede ser un trabajo muy estresante.
+En el fondo, mi día a día consiste en agudizar el ingenio para entregar funcionalidades a tiempo, con una calidad suficiente.
+Pero a menudo aparecen problemas inesperados, que requieren pararse a investigar las tecnologías en profundidad.
+[espacio]
+Cuando no se consiguen resolver a tiempo, y se opta por parches temporales, el trabajo puede acabar siendo muy ingrato.
+Además, como oficio es parecido a una artesanía.
+Tiene sus estilos, sus métodos y sus herramientas.
+Un equipo nuevo, o una tecnología nueva, suele propiciar que se decida rehacer algo que ya estaba hecho de otra forma.
+Aunque el software impregna nuestra vida, y nos la hace más cómoda, está muy enfocado a que lo usemos, no a que lo modifiquemos o adaptemos.
+[espacio]
+No hace mucho tiempo estaba desarrollando un producto financiero sobre tecnología blockchain. Sin entrar en detalles, no se trataba de una criptomoneda, sino un tipo de aplicación en la que coexisten diferentes tecnologías, y que requiere tener muy presentes ciertas limitaciones.
+[espacio]
+En una ocasión, en el equipo del que formaba parte, nos encontramos con un problema que se nos resistía.
+Tuvimos una sesión de lluvia de ideas para tratar de solucionarlo, pero pasaba el tiempo y no dábamos con la causa.
+[espacio]
+En ese momento probé a utilizar ChatGPT para ver si era capaz de proponer soluciones.
+Si no os suena, ChatGPT es una herramienta con la que te comunicas en lenguaje cotidiano, y es capaz de contestar preguntas y realizar tareas de todo tipo.
+Hasta entonces lo había usado sin mucho interés, casi como una amenaza a la que había que desmitificar.
+Se supone que ChatGPT no podría ayudarme en el tipo de trabajo que yo hago, en el que hay que estar aprendiendo constantemente.
+Supongo que esperaba que propusiera ideas simples o irrelevantes.
+Me sorprendió ver que hizo propuestas que ni siquiera habíamos tenido en cuenta.
+[espacio]
+En ese momento me di cuenta de que necesitaba un cambio.
+No sabía cómo, pero veía que ChatGPT me permitiría desarrollar software de otra forma.
+Tenía algunos ahorros y decidí que merecía la pena utilizarlos a modo de Renta Básica.
+Dedicaría ese tiempo a profundizar en cómo aprovechar estos avances en el tipo de trabajo que vengo realizando.
+[espacio]
+Para mi la programación en el mundo empresarial sufre de problemas sistémicos, en gran medida debidos a la mentalidad cortoplacista que prevalece en la industria.
+Esta mentalidad no solo compromete la calidad del software, sino que también puede hacer que el trabajo sea una experiencia frustrante.
+Así que durante este tiempo me obligué a no dejarme llevar por las prisas.
+[espacio]
+Decidí que sería una buena idea empezar por ponerme a mi mismo en el centro.
+Aprovecharía para entender qué lo hace atractivo para mi, y por qué siempre me ha gustado.
+Esa primera etapa consistió en explorar ideas y hacer pruebas.
+Utilicé la Inteligencia Artificial no sólo para automatizar tareas, sino como un colaborador para ayudarme a resolver los desafíos que encontré.
+Pero para mi, sobre todo, fue un antídoto frente a la frustración.
+Pude dar forma a ideas abstractas que habían estado en mi mente durante mucho tiempo.
+[espacio]
+Hay una tendencia en mi sector profesional a que todo sea código, porque ofrece la máxima flexibilidad.
+Ahora mismo no todo es código, ni es accesible. Puedes desarrollar software que interactúe con otros servicios, pero no tienes acceso al código por debajo de esos servicios.
+Y eso es incluso más evidente en el día a día.
+Aunque me compre un dispositivo, no puedo hacer lo que quiera con él.
+Pero si se cumple esa tendencia, y gradualmente se puede acceder al código de la tecnología que nos rodea, me gustaría aprovecharlo.
+[espacio]
+Además de profundizar en cómo abrir el abanico de posibilidades, me planteé un paso más allá.
+No quiero que nadie ejecute código por mi, sin mi permiso.
+No quiero no saber qué pasa en realidad cuando pulso tal o cual botón.
+Quiero poder automatizar aspectos de mi vida, pero de forma transparente y con mi supervisión.
+Quiero no depender de que me prometan que no guardan, usan o venden mis datos. Quiero comprobarlo analizando el código.
+[espacio]
+Así que, en mi caso, la irrupción de la Inteligencia Artificial me ha permitido plantearme objetivos ambiciosos.
+Aunque mi experiencia personal sea anecdótica, creo que puede servir como ejemplo de lo que sería posible si tuviéramos la libertad financiera para explorar aquellas áreas que nos interesen.
+[espacio]
+Imaginad por un momento que todos tuviéramos acceso a una Renta Básica Universal Incondicional. ¿Qué podríamos lograr?
+Quizás podríamos dedicar más tiempo a la familia, a nuestro entorno, o incluso a proyectos personales que tuvieran un impacto positivo en nuestra vida y en el mundo.
+La Universalidad y la Incondicionalidad son fundamentales. Podrían ser proyectos colectivos, no sólo inquietudes personales.
+[espacio]
+Os invito a que reflexionéis sobre esto: ¿A qué os dedicaríais si fuérais financieramente libres?
+Las herramientas de Inteligencia Artificial, aunque en el futuro sean más impactantes, son herramientas que ya pueden cambiar nuestras vidas para mejor.
+La Renta Básica Universal Incondicional nos permitiría parar y dedicar nuestro tiempo a lo que nosotros decidamos. Es una medida muy liberadora.
+[espacio]
+Termino comentando que esta presentación ha sido el producto de una larga conversación con ChatGPT, que me ha aconsejado unas opciones y desaconsejado otras.
+Las imágenes las ha generado Dall-E 3, dentro de ChatGPT, a partir del texto de cada diapositiva que revisábamos conjuntamente.
+
+Eso es todo. Muchas gracias por vuestra atención.
